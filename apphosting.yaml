@@ -12,3 +12,5 @@ env:
     value: 510555620186
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     value: 1:510555620186:web:a8def2f36c149793cce963
+  - variable: GEMINI_API_KEY
+    secret: gemini-api-key
