@@ -1,6 +1,7 @@
 {
   "projects": {
-    "eatsummore": "eatsummore-a5290"
+    "eatsummore": "eatsummore-a5290",
+    "default": "eatsummore-a5290"
   },
   "targets": {},
   "etags": {}
