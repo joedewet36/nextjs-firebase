@@ -34,7 +34,11 @@ cd nextjs-firebase
 
 ### **2\. Install Dependencies**
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   shCopyEditnpm install  # or yarn install   `
+```javascript
+npm install
+# or
+yarn install
+```
 
 ### **3\. Set Up Firebase**
 
