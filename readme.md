@@ -27,7 +27,10 @@ A **Next.js** web application for restaurant management, built with **Firebase A
 
 ### **1\. Clone the Repository**
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   shCopyEditgit clone https://github.com/joedewet36/nextjs-firebase.git cd restaurant-web-app   `
+```javascript
+git clone https://github.com/joedewet36/nextjs-firebase.git
+cd nextjs-firebase
+```
 
 ### **2\. Install Dependencies**
 
