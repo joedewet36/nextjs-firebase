@@ -62,17 +62,13 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 
 ### **4\. Run the App Locally**
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   shCopyEditnpm run dev  # or yarn dev   `
+```javascript
+npm run dev  # or yarn dev
+```
 
 The app will be live at **http://localhost:3000** 🚀
 
-**Testing**
------------
-
-*   **Unit Testing**: Using Jest and React Testing Library
-    
-*   **Integration Testing**: Firebase Emulator Suite for local testing
-    
+   
 
 **Design Decisions & Trade-offs**
 ---------------------------------
@@ -82,9 +78,7 @@ The app will be live at **http://localhost:3000** 🚀
 *   **Firestore for real-time updates** (vs. SQL for structured data)
     
 *   **Firebase Auth for ease of implementation**
-    
-*   **Trade-off**: Firebase's pay-as-you-go model requires cost monitoring
-    
+   
 
 **Contributing**
 ----------------
