@@ -51,7 +51,14 @@ yarn install
 4.  Create a .env.local file and add:
     
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   envCopyEditNEXT_PUBLIC_FIREBASE_API_KEY=your_api_key  NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain  NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id  NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket  NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id  NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id   `
+```javascript
+NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
+```
 
 ### **4\. Run the App Locally**
 
